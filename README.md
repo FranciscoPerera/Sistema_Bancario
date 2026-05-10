@@ -1,10 +1,10 @@
-# 🏦 Sistema Bancário em Python
+# Sistema Bancário em Python
 
 Sistema bancário simples desenvolvido em Python, com foco em lógica de programação, funções e organização de código. O projeto simula operações básicas de um banco, como depósitos, saques e extrato, com regras de negócio reais.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * Depósito de valores
 * Saque com regras de limite
@@ -14,7 +14,7 @@ Sistema bancário simples desenvolvido em Python, com foco em lógica de program
 
 ---
 
-## 🧠 Conceitos aplicados
+## Conceitos aplicados
 
 * Funções em Python
 * Estruturas condicionais (`if/elif/else`)
@@ -26,7 +26,7 @@ Sistema bancário simples desenvolvido em Python, com foco em lógica de program
 
 ---
 
-## 📦 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Python 3
 * Colorama
@@ -34,7 +34,7 @@ Sistema bancário simples desenvolvido em Python, com foco em lógica de program
 
 ---
 
-## 🖥️ Como funciona
+## Como funciona
 
 O sistema funciona via terminal e apresenta um menu interativo:
 
@@ -47,7 +47,7 @@ O sistema funciona via terminal e apresenta um menu interativo:
 
 ---
 
-## 📊 Exemplo de uso
+## Exemplo de uso
 
 ```
 Depósito: R$ 100.00
@@ -57,7 +57,7 @@ Saldo atual: R$ 50.00
 
 ---
 
-## 🚀 Possíveis melhorias futuras
+## Possíveis melhorias futuras
 
 * Sistema com login de usuários
 * Persistência com banco de dados (SQLite)
